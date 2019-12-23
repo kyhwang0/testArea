@@ -6,7 +6,7 @@ class LoopExample {
         char[] thing = new char[len];
 
         for (int i=0; i<thing.length; i++) {
-            thing[i] = 'y';
+            thing[i] = 'v';
         }
         
 
